@@ -1,0 +1,7 @@
+{
+    "products": [
+        {"id": 1, "name": "Uborka", "desc": "Iso 1 l", "price": 1.4 },
+        {"id": 2, "name": "Vaj", "desc": "Iso 100 g", "price": 2.5 },
+        {"id": 3, "name": "Kenyér", "desc": "fehér 1 kg", "price": 1.6 }
+    ]
+}
